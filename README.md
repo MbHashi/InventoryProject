@@ -1,10 +1,10 @@
-Inventory Management System
+# Inventory Management System
 
-Welcome to the Inventory Management System project! This is a web-based application designed to help businesses manage their inventory, sales, purchases, and more. The system is built using Django for the backend and will have a responsive frontend for seamless user experience.
+### Welcome to the Inventory Management System project! This is a web-based application designed to help businesses manage their inventory, sales, purchases, and more. The system is built using Django for the backend and will have a responsive frontend for seamless user experience.
 
-Current Features
+## Current Features
 
-Backend
+### Backend
 
 	•	Django Framework: The backend is built using Django 5.1, providing a robust and scalable environment.
 	•	Database Integration: Successfully connected Django to a MariaDB database.
@@ -12,13 +12,13 @@ Backend
 	•	Category: Represents different categories of items.
 	•	Item: Represents individual items, associated with a category, including fields for quantity and price.
 
-Frontend
+### Frontend
 
 	•	Coming Soon.
 
-Getting Started
+### Getting Started
 
-Prerequisites
+### Prerequisites
 
 	•	Python 3.11
 	•	Django 5.1
@@ -26,7 +26,7 @@ Prerequisites
 	•	Git
 	•	Docker (optional for database management)
 
-Setup Instructions
+### Setup Instructions
 
    **1.	Create a virtual environment:**
    ```git clone git@github.com:MbHashi/InventoryProject.git```
