@@ -1,6 +1,6 @@
 # Inventory Management System
 
-### Welcome to the Inventory Management System project! This is a web-based application designed to help businesses manage their inventory, sales, purchases, and more. The system is built using Django for the backend and will have a responsive frontend for seamless user experience.
+Welcome to the Inventory Management System project! This is a web-based application designed to help businesses manage their inventory, sales, purchases, and more. The system is built using Django for the backend and will have a responsive frontend for seamless user experience.
 
 ## Current Features
 
@@ -60,6 +60,6 @@
    ```
 
 
-###Deployment
+### Deployment
 
 Instructions for deploying this project will be provided once the system is ready for production.
